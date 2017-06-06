@@ -1,4 +1,4 @@
-package hello;
+package com.bfs.service;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
